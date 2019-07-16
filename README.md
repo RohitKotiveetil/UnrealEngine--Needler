@@ -1,6 +1,6 @@
 # UnrealEngine--Needler
 
-Recreation of the Needler from Halo using blueprints in Unreal Engine v4.21.
+Recreation of the Needler from Halo using blueprints in Unreal Engine v4.22.
 
 **Features:** Fire & Forget Lock-On System & SuperCombine Explosion.
 
